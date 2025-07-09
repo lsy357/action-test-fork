@@ -1,5 +1,3 @@
 # action-test
 
-test
-
-test
+feat1 record
